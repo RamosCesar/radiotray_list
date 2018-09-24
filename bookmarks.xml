@@ -1,15 +1,165 @@
 <bookmarks>
   <group name="root">
-    <group name="Catalan Radios">
-      <bookmark name="Rac 1" url="http://streaming3.radiocat.net:80/listen.pls"/>
-      <bookmark name="Catalunya Radio" url="http://catradio.ccma.audioemotion.stream.flumotion.com/ccma/catradio.mp3"/>
-      <bookmark name="M80 Radio" url="http://playerservices.streamtheworld.com/api/livestream-redirect/M80RADIO.mp3"/>
-      <bookmark name="Los 40 principales" url="http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3"/>
-      <bookmark name="Europa FM" url="http://icecast-streaming.nice264.com/europafmback"/>
-      <bookmark name="Radio Marca (Barcelona)" url="http://195.154.151.88:9000/stream"/>
-      <bookmark name="Metro FM (Barcelona)" url="http://89.163.246.196:8208/;stream.mp3"/>
-      <bookmark name="Rac 105" url="http://streaming105.radiocat.net/;stream.mp3"/>
-      <bookmark name="Maxima FM" url="http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM.mp3"/>
+    <group name="Music Radios">
+      <group name="House Music">
+        <bookmark name="Deep House Radio ( DHR, Cork City, Ireland ) www.deephouse-radio.com" url="http://37.187.93.104:8589/;stream/1"/>
+        <bookmark name=": BLUE MARLIN IBIZA RADIO :" url="http://95.211.3.65:8635/;stream/1"/>
+        <bookmark name="Mi-Soul Radio" url="http://87.98.130.255:8025/;stream/1"/>
+        <bookmark name="Radioparty.pl - Dance-Clubbing, Techno, House, Edm, Vocal Trance" url="http://176.31.240.87:8000/;stream/1"/>
+        <bookmark name="PulseEDM Dance Music Radio" url="http://pulseedm.cdnstream1.com:8124/1373_128"/>
+        <bookmark name="psyradio.fm" url="http://81.88.36.42:8040/;"/>
+        <bookmark name="BeachGrooves Radio" url="http://149.210.203.246:8500/;stream/1"/>
+        <bookmark name="Radio Marbella - Vocal Deep House" url="http://192.99.39.108:7872/;stream/1"/>
+        <bookmark name="Hirschmilch Prog-House" url="http://hirschmilch.de:7000/;stream/9"/>
+        <bookmark name="ATHENS ! RADIO! MUSIC FACTORY.GR ! MUSICFACTORY! GREECE ! GREEK" url="http://37.59.14.77:9000/;stream/1"/>
+        <bookmark name="Deepinradio_Athens" url="http://95.211.3.65:8525/;stream/1"/>
+        <bookmark name="Radio Yacht" url="http://94.23.67.172:9140/;stream/1"/>
+        <bookmark name="Noise FM - It's Your Lifestyle | 256 kbps MP3" url="http://noisefm.ru:8000/play_256"/>
+        <bookmark name="B4B CLUB DANCE [HQ]" url="http://comet.shoutca.st:8727/;stream/1"/>
+        <bookmark name=": NO MORE NO LESS :" url="http://95.211.3.65:8750/;stream/1"/>
+        <bookmark name="Point Blank FM" url="http://185.42.221.248:9002/;stream/1"/>
+        <bookmark name=":Ibiza Global Radio HD:" url="http://37.59.254.24:8026/;stream/1"/>
+        <bookmark name="HOUSE CLUBBING ELECTRO - radio.musicdays.pl" url="http://s1.slotex.pl:7202/;stream/1"/>
+        <bookmark name="54House" url="http://109.255.44.249:8000/;"/>
+        <bookmark name="DDM Radio Ireland" url="http://54house.stream-balancer.de/;stream/1"/>
+        <bookmark name="1Mix Radio - Live shows and DJ sets from around the world - its all about House music.." url="http://51.15.177.152:8010/;"/>
+        <bookmark name="1Mix Radio - Live shows and DJ sets from around the world - its all about EDM music.." url="http://51.15.177.152:8008/;"/>
+        <bookmark name="MusicArtclub" url="http://37.59.32.115:8090/;stream/1"/>
+        <bookmark name="Stereo 95" url="http://192.187.112.50:8091/;stream/1"/>
+        <bookmark name="Audioboxlive DJ Radio" url="http://149.56.175.167:5068/;stream/1"/>
+        <bookmark name="54House" url="http://54house.stream-balancer.de/;stream/1"/>
+        <bookmark name="RADIO K4 SHQIP" url="http://80.80.160.232:8080/;stream/1"/>
+        <bookmark name="OUR HOUSE FM" url="http://5.63.151.52:7136/;stream/1"/>
+        <bookmark name="Amsterdams Most Wanted [powered by The Three Sisters Pub Amsterdam]" url="http://77.168.22.74:8000/;stream/1"/>
+        <bookmark name="GlobalBeats FM - Green Channel" url="http://gbs01.de:7110/;stream/1"/>
+        <bookmark name="Mix 247 EDM Tc" url="http://66.70.187.44:9016/;stream/1"/>
+        <bookmark name="http://www.Jenny.Fm" url="http://85.214.97.4:9000/;stream/1"/>
+        <bookmark name="Diversityradio" url="http://sr2.inmystream.info:8032/;stream/2"/>
+        <bookmark name="ItaliaDanceMusic" url="http://178.32.253.51:8000/;"/>
+        <bookmark name="Radio Stil" url="http://192.99.17.12:5286/;stream/1"/>
+        <bookmark name="Radiodancing.com - Latin NRG" url="http://67.212.179.138:7030/;stream/1"/>
+        <bookmark name="BEATWINUS Bar - Soulside Radio Paris" url="http://37.187.59.149:8013/;stream/1"/>
+        <bookmark name="StarDust Space Radio (https://www.facebook.co m/stardustinternetradio) " url="http://cast.stardustradio.space:8000/autodj"/>
+        <bookmark name="Radio MRS" url="http://s1.slotex.pl:7494/;stream/1"/>
+        <bookmark name="MusicArtclub" url="http://37.59.32.115:8090/;stream/1"/>
+        <bookmark name="Stereo 95" url="http://192.187.112.50:8091/;stream/1"/>
+        <bookmark name="BeMy.Dance www.bemyradio.de" url="http://46.105.118.14:17500/;"/>
+        <bookmark name="Audioboxlive DJ Radio" url="http://51.15.177.152:8008/;"/>
+        <bookmark name="1Mix Radio" url="http://149.56.175.167:5068/;stream/1"/>
+        <bookmark name="1Mix Radio EDM Stream" url="http://94.23.209.225:8062/;stream/1"/>
+        <bookmark name="RADIO K4 SHQIP" url="http://80.80.160.232:8080/;stream/1"/>
+        <bookmark name="54House" url="http://54house.stream-balancer.de/;stream/1"/>
+        <bookmark name="OUR HOUSE FM" url="http://5.63.151.52:7136/;stream/1"/>
+        <bookmark name="Amsterdams Most Wanted [powered by The Three Sisters Pub Amsterdam]" url="http://77.168.22.74:8000/;stream/1"/>
+        <bookmark name="GlobalBeats FM - Green Channel" url="http://gbs01.de:7110/;stream/1"/>
+        <bookmark name="Mix 247 EDM Tc" url="http://66.70.187.44:9016/;stream/1"/>
+        <bookmark name="http://www.Jenny.Fm" url="http://85.214.97.4:9000/;stream/1"/>
+        <bookmark name="ItaliaDanceMusic" url="http://sr2.inmystream.info:8032/;stream/2"/>
+        <bookmark name="Diversityradio" url="http://178.32.253.51:8000/;"/>
+        <bookmark name="Radio Stil" url="http://192.99.17.12:5286/;stream/1"/>
+        <bookmark name="Radiodancing.com - Latin NRG" url="http://67.212.179.138:7030/;stream/1"/>
+        <bookmark name="Deeplounge" url="http://83.170.76.46:8012/;stream/1"/>
+        <bookmark name="Radio Studio Souto - Electro House" url="http://192.99.150.31:9095/;stream/1"/>
+        <bookmark name="Deeplounge" url="http://83.170.76.46:8012/;stream/1"/>
+        <bookmark name="1.FM - DANCE ONE RADIO" url="http://69.46.90.243:3698/;"/>
+        <bookmark name="Ibiza Sounds" url="http://5.63.151.52:7900/;stream/1"/>
+        <bookmark name="PlatinumRadioLondon" url="http://91.121.78.191:8008/;stream/1"/>
+        <bookmark name="AddictedtoRadio.com" url="http://208.77.21.31:10010/;"/>
+        <bookmark name="downloaded from djhoangwar.com" url="http://167.114.33.102:8258/;stream/1"/>
+        <bookmark name="RADIO DEEJAY DEEP HOUSE" url="http://50.7.77.114:8101/;"/>
+        <bookmark name="HouseMusicRadioStation" url="http://87.98.217.63:23638/;stream/1"/>
+        <bookmark name="HIT FM" url="http://188.165.201.141:9555/;"/>
+        <bookmark name="SSRadio" url="http://94.23.62.189:5650/;stream/1"/>
+        <bookmark name="ERDE Audio (www.Euer - Radio.DE)" url="http://95.211.3.65:8820/;stream/1"/>
+        <bookmark name="ChillSide Radio" url="http://uk4-vn.mixstream.net:8128/;stream/1"/>
+        <bookmark name="House Music Radio uk" url="http://192.99.17.12:4516/;stream/1"/>
+        <bookmark name="AEGEAN LOUNGE RADIO" url="http://144.217.253.136:8606/;stream/1"/>
+        <bookmark name="MIAZGA CANADA" url="http://91.121.78.191:8469/;stream/1"/>
+        <bookmark name="PlayMusic FM Romania" url="http://playmusicfm.no-ip.biz:9000/;stream/1"/>
+        <bookmark name="ClubHitsUK" url="http://88.198.105.14:8010/;stream/1"/>
+        <bookmark name="RadioBEAT" url="http://89.34.24.40:9998/;stream/1"/>
+        <bookmark name="Delta Rave! - Techno Radio" url="http://149.56.147.197:8127/;stream/1"/>
+        <bookmark name="Beach Paradise Radio" url="http://37.59.37.6:15208/;stream/1"/>
+        <bookmark name="PulseEDM DANCE Music Radio (Low Bit Rate Mobile Stream)" url="http://64.150.176.87:8203/;"/>
+        <bookmark name="DjEefs Records Stream" url="http://188.165.237.19:8400/;stream/1"/>
+        <bookmark name="Radio Circuito Mix" url="http://173.236.30.162:8215/;stream/1"/>
+        <bookmark name="Dance100.com" url="http://91.121.82.33:20624/;stream/1"/>
+        <bookmark name="Trax Dublin" url="http://trax.bitcast.eu:8000/;stream/1"/>
+        <bookmark name="!Radioparty.pl - House, Disco House, Progressive, Edm" url="http://176.31.240.87:9010/;stream/1"/>
+        <bookmark name=": Radio Venao :" url="http://95.211.3.65:8805/;stream/1"/>
+        <bookmark name=": WHERE IS THE AFTER PARTY :" url="http://94.23.252.14:8644/;stream/1"/>
+        <bookmark name="DANCE ONE RADIO (1.FM TM)" url="http://69.46.90.243:3695/;"/>
+        <bookmark name="MixMusic Radio Romania - De 9 ani alaturi de voi - www.mixmusicradio.ro" url="http://mixmusicdance.zapto.org:8890/;"/>
+        <bookmark name="AddictedToRadio.com - Dance Hits Chicago" url="http://208.77.21.21:10025/;"/>
+        <bookmark name="AddictedToRadio.com - WBMX Hot Mix Dance Classics" url="http://208.77.21.31:10310/;"/>
+        <bookmark name="Burn Radio Ibiza" url="http://95.211.3.65:8005/;stream/1"/>
+        <bookmark name="StudioSoundsRadio_" url="http://109.74.206.14:8035/;stream/1"/>
+        <bookmark name="The Music Galaxy Radio (MGR)Stream" url="http://50.7.68.251:6912/;stream/1"/>
+        <bookmark name="4th Room Radio" url="http://85.214.210.12:9500/;"/>
+        <bookmark name="Mp3Radio.FM" url="http://149.56.147.197:7000/;stream/1"/>
+        <bookmark name="HHR LIVE" url="http://78.129.178.98:8131/;"/>
+        <bookmark name="LATIN MIX MASTERS RADIO" url="http://149.56.147.197:7000/;stream/1"/>
+        <bookmark name="Radio Gangsta Dance Romania" url="http://178.33.115.87:8004/;stream/1"/>
+        <bookmark name="Only Oldskool Radio" url="http://50.7.99.155:7208/;stream/1"/>
+        <bookmark name="Gramy bo kochamy" url="http://94.249.254.11:9050/;stream/1"/>
+        <bookmark name="JR.FM Vocal House Radio" url="http://149.210.203.246:8000/;stream/1"/>
+        <bookmark name="Deep Mix Moscow Radio:  deepmix.ru " url="http://hhuk.netmindz.net:8000/;"/>
+        <bookmark name="Radio lisola che non ce" url="http://62.75.150.119:8010/;"/>
+        <bookmark name="Hard House UK (HHUK)" url="http://85.21.79.31:8000/;"/>
+        <bookmark name="Radio Dijaspora: Club Mix" url="http://145.239.26.146:7064/;stream/1"/>
+        <bookmark name="Radio Yacht CH" url="http://149.56.157.81:5092/;stream/1"/>
+        <bookmark name="Sparkle FM Radio" url="http://178.32.137.180:8571/;stream/1"/>
+        <bookmark name="DANI RADIO" url="http://173.208.177.90:13028/;stream/1"/>
+        <bookmark name="MAIN RADIO" url="http://159.253.37.137:9978/;stream/1"/>
+        <bookmark name="Radio Dj El Salvador" url="http://centova.pure-isp.eu:8000/ultra_autodj"/>
+        <bookmark name="BAIT Radio: AutoDJ - www.baitradio.com" url="http://198.49.65.42:9675/;stream/1"/>
+        <bookmark name="polarexpress1" url="http://149.56.147.197:8037/;stream/1"/>
+        <bookmark name="ITMr" url="http://198.49.65.42:9675/;stream/1"/>
+        <bookmark name="Youppala" url="http://192.99.83.149:8012/;"/>
+        <bookmark name="Housemasters Radio" url="http://159.253.37.137:9978/;stream/1"/>
+        <bookmark name="electroradio.fm" url="http://217.182.165.146:8235/;stream/1"/>
+        <bookmark name="RadioClubbin - Only Club Hits!" url="http://149.56.147.197:8037/;stream/1"/>
+        <bookmark name="S-Dance" url="http://173.249.0.141:8136/;stream/1"/>
+        <bookmark name="eRadio OnE - das Webradio: Stage BLUE [192Kbps MP3]" url="http://162.252.85.85:9188/;stream/1"/>
+        <bookmark name="House Beats Radio Station" url="http://78.129.232.226:8119/;stream/1"/>
+        <bookmark name="Soulmix Radio" url="http://151.80.44.127:8336/;stream/1"/>
+        <bookmark name="polarexpress1" url="http://149.56.157.81:8427/;"/>
+        <bookmark name="JR.FM Deep House Radio" url="http://centova.pure-isp.eu:8000/ultra_autodj"/>
+        <bookmark name="EDM - djfrenzy.com" url="http://109.74.206.14:8120/;stream/1"/>
+        <bookmark name="About House Radio" url="http://91.121.82.33:22720/;"/>
+        <bookmark name="Pure Radio Holland - Old shows channel - Best quality (320 kbps)" url="http://5.39.71.159:8774/;stream/1"/>
+        <bookmark name="Radio25 Romania - (www.radio25.ro)" url="http://91.121.122.94:8003/;"/>
+        <bookmark name="Clubbers Radio " url="http://stage-blue-high.eradio-one.de:62000/;"/>
+        <bookmark name="In Progress Radio" url="http://94.23.36.117:5314/;stream/1"/>
+        <bookmark name="DI Radio Digital Impulse - PowerMixNetwork House" url="http://31.131.21.110:8000/;stream/1"/>
+        <bookmark name="NOW PLAYING" url="http://149.255.59.162:8192/;stream/1"/>
+        <bookmark name="PIONEER DJ RADIO" url="http://87.98.216.129:6224/;stream/1"/>
+        <bookmark name="DJ ZONE HOUSE RADIO -Plovdiv, Bulgaria" url="http://192.240.102.133:12279/;stream/1"/>
+        <bookmark name="PIONEER DJ RADIO" url="http://95.211.3.65:8765/;stream/1"/>
+        <bookmark name="DanceUKRadio" url="http://88.198.105.14:8004/;stream/1"/>
+        <bookmark name="Pulsstacja.fm" url="http://91.232.4.33:7078/;stream/1"/>
+        <bookmark name="AB1" url="http://149.255.59.162:8192/;stream/1"/>
+        <bookmark name="Tanz FM Russia" url="http://87.117.197.33:26538/;"/>
+        <bookmark name="REST RADIO | See how far music can take you!" url="http://87.98.216.129:6224/;stream/1"/>
+        <bookmark name="JR.FM Future/Electro" url="http://149.56.157.81:8231/;stream/1"/>
+        <bookmark name="HeadFM.net - Underground House" url="http://5.63.151.52:7212/;stream/1"/>
+        <bookmark name="A Reason To Dance - Radio G!" url="http://192.111.140.6:8030/;stream/1"/>
+        <bookmark name="Jackd Up Radio" url="http://cabhs33.sonixcast.com:20006/;stream/1"/>
+        <bookmark name="NOW PLAYING" url="http://5.39.71.159:8685/;stream/1"/>
+        <bookmark name="TMDRadio" url="http://173.236.30.162:8223/;stream/1"/>
+        <bookmark name="Deepinradio.com" url="http://95.211.3.65:9200/;"/>
+        <bookmark name="Beats2dance" url="http://178.20.171.36:8128/;"/>
+        <bookmark name="House" url="http://159.203.76.177:8004/;stream/1"/>
+        <bookmark name="Allure Club - Soulside Radio Paris" url="http://37.187.59.149:8007/;stream/1"/>
+        <bookmark name="..:: ERDE Audio (www.Euer - Radio.DE) ::.." url="http://149.56.157.81:5343/;stream/1"/>
+      </group>
+    </group>
+    <group name="News Radios">
+      <group name="Catalan language">
+        <bookmark name="Rac 1" url="http://streaming3.radiocat.net:80/listen.pls"/>
+        <bookmark name="Catalunya Radio" url="http://catradio.ccma.audioemotion.stream.flumotion.com/ccma/catradio.mp3"/>
+        <bookmark name="Radio Marca (Barcelona)" url="http://195.154.151.88:9000/stream"/>
+      </group>
     </group>
     <group name="Default Radios">
       <group name="Jazz">
