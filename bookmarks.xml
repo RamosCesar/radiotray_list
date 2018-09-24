@@ -260,6 +260,11 @@
       <group name="Catalan language">
         <bookmark name="Rac 1" url="http://streaming3.radiocat.net:80/listen.pls"/>
         <bookmark name="Catalunya Radio" url="http://catradio.ccma.audioemotion.stream.flumotion.com/ccma/catradio.mp3"/>
+      </group>
+      <group name="Spanish language">
+        <bookmark name="Cadena SER" url="http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3"/>
+        <bookmark name="Onda Cero" url="http://icecast-streaming.nice264.com/ondacero"/>
+        <bookmark name="Radio Cope (Madrid)" url="http://195.55.74.203/cope/net4.mp3"/>
         <bookmark name="Radio Marca (Barcelona)" url="http://195.154.151.88:9000/stream"/>
       </group>
     </group>
