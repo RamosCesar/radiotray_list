@@ -33,18 +33,18 @@
       <bookmark name="181.FM" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=35402"/>
     </group>
     <group name="Classic Rock">
-      <bookmark name="This is my server name" url="http://de1.internet-radio.com:8065/live"/>
       <bookmark name="Box UK Radio danceradiouk" url="http://uk7.internet-radio.com:8226/;stream"/>
       <bookmark name="Classic Rock Florida HD" url="http://us4.internet-radio.com:8258/;stream"/>
       <bookmark name="Majestic Jukebox Radio #HIGH QUALITY SOUND" url="http://uk3.internet-radio.com:8405/live"/>
       <bookmark name="Radio Bloodstream" url="http://uk1.internet-radio.com:8294/live"/>
       <bookmark name="ROCK AND ROLL CHANNEL ONLINE" url="http://uk2.internet-radio.com:8054/;stream"/>
       <bookmark name="FX Alternative Radio (48 AAC+)" url="http://us3.internet-radio.com:8264/;stream"/>
+      <bookmark name="Yammat FM" url="http://192.240.102.133:12430/;stream/1"/>
       <bookmark name="The Zone - Dublin" url="http://uk1.internet-radio.com:8355/;stream"/>
       <bookmark name=".RITA radio" url="http://uk5.internet-radio.com:8031/;stream"/>
       <bookmark name="Bulldogs-Radio" url="http://us4.internet-radio.com:8062/;stream"/>
       <bookmark name="AT Radio" url="http://uk6.internet-radio.com:8424/;stream"/>
-      <bookmark name="PARTY VIBE RADIO :  ROCK  +  ALTERNATIVE  +  PSYCHEDELIC" url="http://www.partyviberadio.com:8032/;stream/1"/>
+      <bookmark name="Classic Hits 4FM" url="http://178.32.62.172:8166/;stream/1"/>
       <bookmark name="Radio Free MMO" url="http://us4.internet-radio.com:8069/;stream"/>
       <bookmark name="Bangalore Rocks" url="http://us3.internet-radio.com:8004/live"/>
       <bookmark name="Smithprojectradio2 Radio" url="http://us2.internet-radio.com:8164/;stream"/>
@@ -63,7 +63,7 @@
       <bookmark name="The Grammar Club Radio" url="http://us4.internet-radio.com:8212/;stream"/>
       <bookmark name="Stones Live! - The 24/7 Maidstone United Radio Station" url="http://uk5.internet-radio.com:8288/;stream"/>
       <bookmark name="Radio Hospitals Blackburn" url="http://uk3.internet-radio.com:8312/;stream"/>
-      <bookmark name="Music Box w/ Big Head Tony" url="http://www.regionradio.live:8082/live"/>
+      <bookmark name="Music Box" url="http://www.regionradio.live:8082/live"/>
       <bookmark name="Vintage Lounge" url="http://us5.regionradio.live:8163/live"/>
       <bookmark name="Allsaints Cathedral Onitsha" url="http://us5.internet-radio.com:8074/;stream"/>
       <bookmark name="stream" url="http://us4.internet-radio.com:8174/;stream"/>
@@ -316,6 +316,11 @@
       <bookmark name="Radio 108" url="http://www.mntr.fr:8000/radio.mp3"/>
       <bookmark name="FeelSoGood FM 2" url="http://198.105.216.204:8218/;stream/1"/>
       <bookmark name="PCP EMPIRE WORLD" url="http://149.210.203.246:8118/;stream/1"/>
+    </group>
+    <group name="Synthwave">
+      <bookmark name="radio.obrilho.com" url="http://192.99.37.181:8050/live.mp3"/>
+      <bookmark name="Synthetic FM Synth" url="http://stream.syntheticfm.com:8040/live"/>
+      <bookmark name="Neo80s Pilot" url="http://145.239.26.146:7750/;stream/1"/>
     </group>
     <group name="Techno / Electronic">
       <bookmark name="MoveDaHouse" url="http://uk7.internet-radio.com:8000/;stream"/>
