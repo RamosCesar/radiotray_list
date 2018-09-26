@@ -313,12 +313,36 @@
         <bookmark name="SKY.fm Oldies" url="http://listen.sky.fm/public1/oldies.pls"/>
       </group>
       <group name="Chill">
-        <bookmark name="181.FM" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=35402"/>
-        <bookmark name="Lounge Radio" url="http://www.lounge-radio.com/listen128.m3u"/>
         <bookmark name="Beat Blender" url="http://somafm.com/beatblender.pls"/>
-        <bookmark name="Secret Agent" url="http://somafm.com/secretagent.pls"/>
-        <bookmark name="Groove Salad" url="http://somafm.com/groovesalad.pls"/>
+        <bookmark name="Buddhapillow Radio" url="http://uk3.internet-radio.com:8399/live"/>
+        <bookmark name="Eye Of Destiny Radio" url="http://uk6.internet-radio.com:8428/;stream"/>
+        <bookmark name="Real World Sounds" url="http://uk5.internet-radio.com:8260/;stream"/>
+        <bookmark name="Radio Play Emotions" url="http://5.39.82.157:8054/;stream/1"/>
+        <bookmark name="Instrumental Hits Radio" url="http://149.56.195.94:8453/autodj"/>
         <bookmark name="Illinois Street Lounge" url="http://somafm.com/illstreet.pls"/>
+        <bookmark name="Milano Lounge Sophisticated Sounds" url="http://64.71.79.181:5080/;stream/1"/>
+        <bookmark name="CHILLOUT LOUNGE JAZZ - radio.musicdays.pl" url="http://s1.slotex.pl:7240/;stream/1"/>
+        <bookmark name="LIFE CHILL MUSIC" url="http://aska.ru-hoster.com:8053/autodj"/>
+        <bookmark name="Groove Salad" url="http://somafm.com/groovesalad.pls"/>
+        <bookmark name="StarDust Space Radio (https://www.facebook.co m/stardustinternetradio) " url="http://cast.stardustradio.space:8000/autodj"/>
+        <bookmark name="ChilloutTreePines" url="http://109.169.26.216:8020/;"/>
+        <bookmark name="Radio Horyzont " url="http://176.31.125.205:9622/;"/>
+        <bookmark name="North Shore Music FM" url="http://80.237.156.8:8440/;"/>
+        <bookmark name="LFOD - Pi Radio" url="http://radio.lfod.online:3140/mpd"/>
+        <bookmark name="Lounge Radio" url="http://www.lounge-radio.com/listen128.m3u"/>
+        <bookmark name="Radio IwAn - Sponsored by Walker" url="http://188.165.232.7:8287/;stream/1"/>
+        <bookmark name="Miba-Piano: Piano Improvisation" url="http://miba-piano.de:8200/;"/>
+        <bookmark name="DRS 2006 - RMNrelax - the relaxed chillout station aacplus" url="http://212.48.125.67:8022/;"/>
+        <bookmark name="Secret Agent" url="http://somafm.com/secretagent.pls"/>
+        <bookmark name="Spectrum Chillout" url="http://51.255.235.165:5024/;stream/1"/>
+        <bookmark name="PLAYA.FM" url="http://64.71.79.181:5242/;stream/1"/>
+        <bookmark name="www.adtalkes.com" url="http://145.239.26.146:7226/;stream/1"/>
+        <bookmark name="Mojo Radio" url="http://78.129.159.25:8034/;"/>
+        <bookmark name="nRP" url="http://nrp.selfip.net:8000/;"/>
+        <bookmark name="zwolnij tempo" url="http://145.239.26.146:8016/;stream/1"/>
+        <bookmark name="HouseHoldRadio Stream" url="http://178.32.62.172:9303/;stream/1"/>
+        <bookmark name="StreamFinder.com Stream" url="http://184.154.145.114:8067/;"/>
+        <bookmark name="181.FM" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=35402"/>
       </group>
       <group name="Country">
         <bookmark name="SKY.fm Country" url="http://listen.sky.fm/public1/country.pls"/>
